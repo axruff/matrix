@@ -1,9 +1,11 @@
 //
 //  Predicates.h
-//  CppTest
 //
-//  Created by Aleksei Ershov on 12/08/2018.
-//  Copyright © 2018 Aleksei Ershov. All rights reserved.
+//  Generic multi-dimensional Matrix
+// 
+//  Follows design provided in Bjarne Stroustrup "The C++ Programming Language", Chapter 29
+//   
+//  Created by Alex Ershov on 12/08/2018.
 //
 
 #ifndef Predicates_h
